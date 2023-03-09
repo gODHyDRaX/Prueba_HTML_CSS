@@ -1,0 +1,120 @@
+.heade{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 6rem;
+    padding: 0rem 5rem;
+    border-bottom: 0.01rem solid hwb(0 0% 100%);
+}
+.ico{
+    width: 4rem;
+    float: left;
+    margin-left: 60rem;
+    margin-top: 0.9rem;
+}
+.contenido{
+    width: 120rem;
+    height: 150vh;
+    margin: auto; 
+    padding: 5rem 3rem ;
+}
+.header{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 6rem;
+    padding: 0rem 3rem;
+    margin-left: 6;
+    margin-top: -4.3rem;
+}
+.perfil{
+    width: 80rem;
+    padding-right: 20rem;
+    font-size: xx-large;
+    font-weight: 500    ;
+}
+.tabla{
+width: 108rem;
+}
+.conten{
+    width: 80rem;
+    text-align: center;
+
+}
+.articulo{
+    width: 100%;
+    height: 160lvh; 
+    margin-top: 0.5rem;
+}
+.img{
+    
+    width: 85rem;
+    height: 45rem;
+    float: left ;
+    margin-left: 14rem;
+    margin-top: 2rem;
+}
+.titulo{
+    
+   float: left  ;
+    text-align:left;
+    font-size: 3rem;
+    margin-left: 15rem;
+    font-weight: 20rem;
+    
+}
+.descripcion{
+    float: left;
+    text-align: left;
+    font-size: small;
+    margin-left: 15rem;
+    font-weight: 20rem;
+    margin-top: 9rem;
+}
+.parrafo{
+    text-align: justify;
+}
+.tabla2{
+
+    float: left;
+    width: 120rem;
+    height: 40rem;
+    margin-left: -3rem;
+    margin-top: 9rem;
+}
+.campos{
+    text-align: center;
+}
+.final{
+    background-color: whitesmoke;
+    width: 70%;
+    height: 6rem;
+    padding: 0rem 5rem;
+    margin-left: 20rem;
+    border: 0.01rem solid black;
+    margin-top: 55rem;
+}
+.final1{
+    background-color: whitesmoke;
+    width: 70%;
+    height: 6rem;
+    padding: 0rem 5rem;
+    margin-left: 20rem;
+    border: 0.01rem solid black;
+    margin-top: 15rem;
+}
+.icono{
+    width: 4rem;
+    float: left;
+    margin-left: 40rem;
+    margin-top: 0.8rem;
+}
+.presentaciones{
+color: black;
+cursor:pointer;
+} 
+.links{
+    color: black;
+    cursor:pointer;
+    } 
+.campos1{
+text-align: justify;
+}
