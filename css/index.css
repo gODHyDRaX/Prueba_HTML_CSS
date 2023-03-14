@@ -13,7 +13,7 @@
 }
 .contenido{
     width: 120rem;
-    height: 150vh;
+    height: 170vh;
     margin: auto; 
     padding: 5rem 3rem ;
 }
@@ -57,8 +57,9 @@ width: 108rem;
    float: left  ;
     text-align:left;
     font-size: 3rem;
-    margin-left: 15rem;
+    margin-left: 6rem;
     font-weight: 20rem;
+    margin-top: 3rem;
     
 }
 .descripcion{
@@ -70,7 +71,10 @@ width: 108rem;
     margin-top: 9rem;
 }
 .parrafo{
+    margin-left: -9rem;
     text-align: justify;
+    font-size: medium;
+    margin-top: -3rem;
 }
 .tabla2{
 
