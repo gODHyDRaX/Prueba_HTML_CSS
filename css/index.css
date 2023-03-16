@@ -32,7 +32,7 @@
     font-weight: 500    ;
 }
 .tabla{
-width: 108rem;
+width: 110rem;
 }
 .conten{
     width: 80rem;
@@ -122,3 +122,34 @@ cursor:pointer;
 .campos1{
 text-align: justify;
 }
+.tabla3{
+    float: left;
+    width: 53rem;
+    height:90rem;
+    margin-left: -1rem;
+    margin-top: -30rem;
+}
+.tabla3 td{
+font-size: medium;
+}
+.tabla4{
+    float: right;
+    width: 53rem;
+    height:90rem;
+    margin-right: -1rem;
+    margin-top: 15.3rem;
+}
+.tabla4 td{
+    font-size: medium;
+}
+.final2{
+    background-color: whitesmoke;
+    width: 70%;
+    height: 6rem;
+    padding: 0rem 5rem;
+    margin-left: 20rem;
+    border: 0.01rem solid black;
+    margin-top: 70rem;
+}
+
+
