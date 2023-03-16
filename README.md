@@ -21,5 +21,4 @@ My page
 https://godhydrax.github.io/Prueba_HTML_CSS/
 </td>
 </tr>
-
 </table>
