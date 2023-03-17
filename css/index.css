@@ -80,9 +80,13 @@ width: 110rem;
 
     float: left;
     width: 120rem;
-    height: 40rem;
+    height: 20rem;
     margin-left: -3rem;
-    margin-top: 9rem;
+    margin-top: 15rem;
+}
+.tabla2 td{
+    text-align: center;
+    font-size: medium;
 }
 .campos{
     text-align: center;
